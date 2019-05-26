@@ -1,0 +1,27 @@
+{
+  "name": "Arctic Sunrise",
+  "component": false,
+  "license_url": "https://github.com/t1-tracey/arctic-sunrise-theme/blob/master/LICENSE",
+  "about_url": "https://github.com/t1-tracey/arctic-sunrise-theme",
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+    "Arctic Sunrise": {
+      "primary": "222222",
+      "secondary": "ffffff",
+      "tertiary": "6eb5c1",
+      "quaternary": "ffccbb",
+      "header_background": "E2e8e5",
+      "header_primary": "333333",
+      "highlight": "ffccbb",
+      "danger": "e45735",
+      "success": "009900",
+      "love": "fa6c8d"
+    }
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
